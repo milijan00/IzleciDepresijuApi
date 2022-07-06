@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IzleciDepresiju.Application/1.0.0": {
+        "dependencies": {
+          "IzleciDepresiju.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IzleciDepresiju.Application.dll": {}
+        }
+      },
+      "IzleciDepresiju.Domain/1.0.0": {
+        "runtime": {
+          "IzleciDepresiju.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IzleciDepresiju.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IzleciDepresiju.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
